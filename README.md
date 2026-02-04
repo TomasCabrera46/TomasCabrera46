@@ -47,7 +47,7 @@ SQL · MySQL · MongoDB
 
 
 ## 📫 Contacto
-- 💼 LinkedIn: [https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/tom%C3%A1s-cabrera-dominza%C3%ADn-0b1121240/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/tom%C3%A1s-cabrera-dominza%C3%ADn-0b1121240/)
 - 🐙 GitHub: https://github.com/TomasCabrera46
 
 Gracias por pasar por mi perfil 🙂
